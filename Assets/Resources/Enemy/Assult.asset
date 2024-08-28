@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33cb1c50931041f2bbcb01c0db30c8a, type: 3}
+  m_Name: Assult
+  m_EditorClassIdentifier: 
+  hpMax: 20
+  enemyName: Enemy
+  cost: 1
+  enemy_exp: 10
+  itemSO:
+  - {fileID: 11400000, guid: d69d442f3a2f6486ebccd9fb40e59a9a, type: 2}

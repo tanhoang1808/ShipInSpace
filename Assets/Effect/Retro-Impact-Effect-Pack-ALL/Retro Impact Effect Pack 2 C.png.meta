@@ -1,0 +1,3998 @@
+fileFormatVersion: 2
+guid: a6d494ee9b90c47fa9cedee470498895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8119839085598856233
+    second: Retro Impact Effect Pack 2 C_0
+  - first:
+      213: 1091050084331813976
+    second: Retro Impact Effect Pack 2 C_1
+  - first:
+      213: -6428469807480997483
+    second: Retro Impact Effect Pack 2 C_2
+  - first:
+      213: -5742540049895187792
+    second: Retro Impact Effect Pack 2 C_3
+  - first:
+      213: -7100051688713568104
+    second: Retro Impact Effect Pack 2 C_4
+  - first:
+      213: 424275333550013477
+    second: Retro Impact Effect Pack 2 C_5
+  - first:
+      213: -7755140513553630513
+    second: Retro Impact Effect Pack 2 C_6
+  - first:
+      213: 8315280977738058531
+    second: Retro Impact Effect Pack 2 C_7
+  - first:
+      213: 7950291339105128517
+    second: Retro Impact Effect Pack 2 C_8
+  - first:
+      213: -7969399291121508847
+    second: Retro Impact Effect Pack 2 C_9
+  - first:
+      213: 3288704979278415527
+    second: Retro Impact Effect Pack 2 C_10
+  - first:
+      213: -3338558887413337466
+    second: Retro Impact Effect Pack 2 C_11
+  - first:
+      213: -2551240364527815563
+    second: Retro Impact Effect Pack 2 C_12
+  - first:
+      213: -1806730755953557277
+    second: Retro Impact Effect Pack 2 C_13
+  - first:
+      213: 834189449522287314
+    second: Retro Impact Effect Pack 2 C_14
+  - first:
+      213: 3740165012466983790
+    second: Retro Impact Effect Pack 2 C_15
+  - first:
+      213: -5173896167396855818
+    second: Retro Impact Effect Pack 2 C_16
+  - first:
+      213: -6335734696889799165
+    second: Retro Impact Effect Pack 2 C_17
+  - first:
+      213: -1566824036000607428
+    second: Retro Impact Effect Pack 2 C_18
+  - first:
+      213: 9127570490939975764
+    second: Retro Impact Effect Pack 2 C_19
+  - first:
+      213: -3666105445187155399
+    second: Retro Impact Effect Pack 2 C_20
+  - first:
+      213: -3081319596239659459
+    second: Retro Impact Effect Pack 2 C_21
+  - first:
+      213: -3917963600061520546
+    second: Retro Impact Effect Pack 2 C_22
+  - first:
+      213: -911819882693947763
+    second: Retro Impact Effect Pack 2 C_23
+  - first:
+      213: 7595446867122788577
+    second: Retro Impact Effect Pack 2 C_24
+  - first:
+      213: -1056915872599629552
+    second: Retro Impact Effect Pack 2 C_25
+  - first:
+      213: -9166418612573060382
+    second: Retro Impact Effect Pack 2 C_26
+  - first:
+      213: -578677694454539688
+    second: Retro Impact Effect Pack 2 C_27
+  - first:
+      213: 5199251293406144706
+    second: Retro Impact Effect Pack 2 C_28
+  - first:
+      213: -5242337223830467885
+    second: Retro Impact Effect Pack 2 C_29
+  - first:
+      213: -2174163619890697835
+    second: Retro Impact Effect Pack 2 C_30
+  - first:
+      213: 2478015828391160138
+    second: Retro Impact Effect Pack 2 C_31
+  - first:
+      213: -2264818034628611899
+    second: Retro Impact Effect Pack 2 C_32
+  - first:
+      213: 9030220690318716506
+    second: Retro Impact Effect Pack 2 C_33
+  - first:
+      213: 4734808283730705135
+    second: Retro Impact Effect Pack 2 C_34
+  - first:
+      213: -6085162737712938415
+    second: Retro Impact Effect Pack 2 C_35
+  - first:
+      213: 4152032023291850195
+    second: Retro Impact Effect Pack 2 C_36
+  - first:
+      213: 3154094449209484636
+    second: Retro Impact Effect Pack 2 C_37
+  - first:
+      213: 992528942021027194
+    second: Retro Impact Effect Pack 2 C_38
+  - first:
+      213: 5897538611132445959
+    second: Retro Impact Effect Pack 2 C_39
+  - first:
+      213: 137698484383758884
+    second: Retro Impact Effect Pack 2 C_40
+  - first:
+      213: 5321939675330123792
+    second: Retro Impact Effect Pack 2 C_41
+  - first:
+      213: 4724731479355162419
+    second: Retro Impact Effect Pack 2 C_42
+  - first:
+      213: -8733215156307157832
+    second: Retro Impact Effect Pack 2 C_43
+  - first:
+      213: -8258695471739728747
+    second: Retro Impact Effect Pack 2 C_44
+  - first:
+      213: -4478875337855802132
+    second: Retro Impact Effect Pack 2 C_45
+  - first:
+      213: 8437651636011858223
+    second: Retro Impact Effect Pack 2 C_46
+  - first:
+      213: 6163624775364855111
+    second: Retro Impact Effect Pack 2 C_47
+  - first:
+      213: 1760536327352778086
+    second: Retro Impact Effect Pack 2 C_48
+  - first:
+      213: -3119334628153537331
+    second: Retro Impact Effect Pack 2 C_49
+  - first:
+      213: 7924005035689632849
+    second: Retro Impact Effect Pack 2 C_50
+  - first:
+      213: 1924117713796764573
+    second: Retro Impact Effect Pack 2 C_51
+  - first:
+      213: 1116249454276128069
+    second: Retro Impact Effect Pack 2 C_52
+  - first:
+      213: -162146530204165845
+    second: Retro Impact Effect Pack 2 C_53
+  - first:
+      213: 6121332078015498384
+    second: Retro Impact Effect Pack 2 C_54
+  - first:
+      213: -476468084996638245
+    second: Retro Impact Effect Pack 2 C_55
+  - first:
+      213: 5768122786125505573
+    second: Retro Impact Effect Pack 2 C_56
+  - first:
+      213: 3711144019671089826
+    second: Retro Impact Effect Pack 2 C_57
+  - first:
+      213: 7855289426788999299
+    second: Retro Impact Effect Pack 2 C_58
+  - first:
+      213: 5033020784319134597
+    second: Retro Impact Effect Pack 2 C_59
+  - first:
+      213: 9221729883276493437
+    second: Retro Impact Effect Pack 2 C_60
+  - first:
+      213: 7140644785232236895
+    second: Retro Impact Effect Pack 2 C_61
+  - first:
+      213: 6066112297610053399
+    second: Retro Impact Effect Pack 2 C_62
+  - first:
+      213: -5580303344379908444
+    second: Retro Impact Effect Pack 2 C_63
+  - first:
+      213: 1755030146109758624
+    second: Retro Impact Effect Pack 2 C_64
+  - first:
+      213: 2730843771217651635
+    second: Retro Impact Effect Pack 2 C_65
+  - first:
+      213: -1141135991022225451
+    second: Retro Impact Effect Pack 2 C_66
+  - first:
+      213: 793258528133557108
+    second: Retro Impact Effect Pack 2 C_67
+  - first:
+      213: -6675473907414194076
+    second: Retro Impact Effect Pack 2 C_68
+  - first:
+      213: 483135371374389963
+    second: Retro Impact Effect Pack 2 C_69
+  - first:
+      213: 1009837576116715706
+    second: Retro Impact Effect Pack 2 C_70
+  - first:
+      213: -1020176247350837841
+    second: Retro Impact Effect Pack 2 C_71
+  - first:
+      213: 8575410786607079403
+    second: Retro Impact Effect Pack 2 C_72
+  - first:
+      213: -2043859154705395063
+    second: Retro Impact Effect Pack 2 C_73
+  - first:
+      213: 4382562870338950583
+    second: Retro Impact Effect Pack 2 C_74
+  - first:
+      213: -2426202254183424357
+    second: Retro Impact Effect Pack 2 C_75
+  - first:
+      213: 2390818930158307615
+    second: Retro Impact Effect Pack 2 C_76
+  - first:
+      213: -1339605050875057024
+    second: Retro Impact Effect Pack 2 C_77
+  - first:
+      213: 7585166537262166749
+    second: Retro Impact Effect Pack 2 C_78
+  - first:
+      213: 2356422637864125787
+    second: Retro Impact Effect Pack 2 C_79
+  - first:
+      213: 1333537454992653121
+    second: Retro Impact Effect Pack 2 C_80
+  - first:
+      213: 6044331680292494251
+    second: Retro Impact Effect Pack 2 C_81
+  - first:
+      213: -5744822722695257716
+    second: Retro Impact Effect Pack 2 C_82
+  - first:
+      213: 5890730262080087872
+    second: Retro Impact Effect Pack 2 C_83
+  - first:
+      213: 6426645361701630176
+    second: Retro Impact Effect Pack 2 C_84
+  - first:
+      213: 5269707359481478233
+    second: Retro Impact Effect Pack 2 C_85
+  - first:
+      213: 965630802193872020
+    second: Retro Impact Effect Pack 2 C_86
+  - first:
+      213: 2828110053000420875
+    second: Retro Impact Effect Pack 2 C_87
+  - first:
+      213: 1404122533919734702
+    second: Retro Impact Effect Pack 2 C_88
+  - first:
+      213: -7882344801503934036
+    second: Retro Impact Effect Pack 2 C_89
+  - first:
+      213: 4853282029676326615
+    second: Retro Impact Effect Pack 2 C_90
+  - first:
+      213: 472105651647361733
+    second: Retro Impact Effect Pack 2 C_91
+  - first:
+      213: 6636637122077649012
+    second: Retro Impact Effect Pack 2 C_92
+  - first:
+      213: -3095546750805044087
+    second: Retro Impact Effect Pack 2 C_93
+  - first:
+      213: -7912223175010473764
+    second: Retro Impact Effect Pack 2 C_94
+  - first:
+      213: 5754638059983935043
+    second: Retro Impact Effect Pack 2 C_95
+  - first:
+      213: -6103097089832944042
+    second: Retro Impact Effect Pack 2 C_96
+  - first:
+      213: -1099895877208371807
+    second: Retro Impact Effect Pack 2 C_97
+  - first:
+      213: 6577836362755684412
+    second: Retro Impact Effect Pack 2 C_98
+  - first:
+      213: 2063884066005920966
+    second: Retro Impact Effect Pack 2 C_99
+  - first:
+      213: 8652308930996641478
+    second: Retro Impact Effect Pack 2 C_100
+  - first:
+      213: -3442305034211217639
+    second: Retro Impact Effect Pack 2 C_101
+  - first:
+      213: -4754188249446109563
+    second: Retro Impact Effect Pack 2 C_102
+  - first:
+      213: -2746310897283840344
+    second: Retro Impact Effect Pack 2 C_103
+  - first:
+      213: 5984953382387362456
+    second: Retro Impact Effect Pack 2 C_104
+  - first:
+      213: -8795199879846809666
+    second: Retro Impact Effect Pack 2 C_105
+  - first:
+      213: -1305115258249239570
+    second: Retro Impact Effect Pack 2 C_106
+  - first:
+      213: -672433429543927119
+    second: Retro Impact Effect Pack 2 C_107
+  - first:
+      213: 4219167899315079404
+    second: Retro Impact Effect Pack 2 C_108
+  - first:
+      213: 3685690848196651299
+    second: Retro Impact Effect Pack 2 C_109
+  - first:
+      213: -32035444850272012
+    second: Retro Impact Effect Pack 2 C_110
+  - first:
+      213: -6397901689387284847
+    second: Retro Impact Effect Pack 2 C_111
+  - first:
+      213: -3219729513219789893
+    second: Retro Impact Effect Pack 2 C_112
+  - first:
+      213: 5165295949576966230
+    second: Retro Impact Effect Pack 2 C_113
+  - first:
+      213: 7239725373021749428
+    second: Retro Impact Effect Pack 2 C_114
+  - first:
+      213: -1640369305378538019
+    second: Retro Impact Effect Pack 2 C_115
+  - first:
+      213: 3045666650762606457
+    second: Retro Impact Effect Pack 2 C_116
+  - first:
+      213: -5518771456545554435
+    second: Retro Impact Effect Pack 2 C_117
+  - first:
+      213: -6053537005264877008
+    second: Retro Impact Effect Pack 2 C_118
+  - first:
+      213: 4009646137669667554
+    second: Retro Impact Effect Pack 2 C_119
+  - first:
+      213: 1401379697562901583
+    second: Retro Impact Effect Pack 2 C_120
+  - first:
+      213: -1907930849803500546
+    second: Retro Impact Effect Pack 2 C_121
+  - first:
+      213: -6860426721807866100
+    second: Retro Impact Effect Pack 2 C_122
+  - first:
+      213: -1967974086514997435
+    second: Retro Impact Effect Pack 2 C_123
+  - first:
+      213: -7858992240495334221
+    second: Retro Impact Effect Pack 2 C_124
+  - first:
+      213: 1335429380993570570
+    second: Retro Impact Effect Pack 2 C_125
+  - first:
+      213: -2735167227938347375
+    second: Retro Impact Effect Pack 2 C_126
+  - first:
+      213: -9047099518980959032
+    second: Retro Impact Effect Pack 2 C_127
+  - first:
+      213: -5003085781166012947
+    second: Retro Impact Effect Pack 2 C_128
+  - first:
+      213: -5297925273526298796
+    second: Retro Impact Effect Pack 2 C_129
+  - first:
+      213: -2966786123491668724
+    second: Retro Impact Effect Pack 2 C_130
+  - first:
+      213: -5981081291780689292
+    second: Retro Impact Effect Pack 2 C_131
+  - first:
+      213: 1655282351324925206
+    second: Retro Impact Effect Pack 2 C_132
+  - first:
+      213: 7722781017135623042
+    second: Retro Impact Effect Pack 2 C_133
+  - first:
+      213: 3666982857014509759
+    second: Retro Impact Effect Pack 2 C_134
+  - first:
+      213: -3037506193805441807
+    second: Retro Impact Effect Pack 2 C_135
+  - first:
+      213: -3798995437009578028
+    second: Retro Impact Effect Pack 2 C_136
+  - first:
+      213: 3364726664942977166
+    second: Retro Impact Effect Pack 2 C_137
+  - first:
+      213: -1986338489608736050
+    second: Retro Impact Effect Pack 2 C_138
+  - first:
+      213: -7929181335400631697
+    second: Retro Impact Effect Pack 2 C_139
+  - first:
+      213: -843268035094381556
+    second: Retro Impact Effect Pack 2 C_140
+  - first:
+      213: -9114149365941126954
+    second: Retro Impact Effect Pack 2 C_141
+  - first:
+      213: 5609460550823883769
+    second: Retro Impact Effect Pack 2 C_142
+  - first:
+      213: 2769840017916986518
+    second: Retro Impact Effect Pack 2 C_143
+  - first:
+      213: -8741612408667767991
+    second: Retro Impact Effect Pack 2 C_144
+  - first:
+      213: -6859715555322442120
+    second: Retro Impact Effect Pack 2 C_145
+  - first:
+      213: 1349463222054042631
+    second: Retro Impact Effect Pack 2 C_146
+  - first:
+      213: 5924735805156744539
+    second: Retro Impact Effect Pack 2 C_147
+  - first:
+      213: 7836742380711244875
+    second: Retro Impact Effect Pack 2 C_148
+  - first:
+      213: 5655260458273229500
+    second: Retro Impact Effect Pack 2 C_149
+  - first:
+      213: 5712253831595215556
+    second: Retro Impact Effect Pack 2 C_150
+  - first:
+      213: -3221660830897955937
+    second: Retro Impact Effect Pack 2 C_151
+  - first:
+      213: -5784368488017852710
+    second: Retro Impact Effect Pack 2 C_152
+  - first:
+      213: 1795481624473969071
+    second: Retro Impact Effect Pack 2 C_153
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2c855f59805f80800000000000000
+      internalID: -8119839085598856233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf1c46540342f00800000000000000
+      internalID: 1091050084331813976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59975c305cc79c6a0800000000000000
+      internalID: -6428469807480997483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b89ff366e40b0800000000000000
+      internalID: -5742540049895187792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c0575b9c877d90800000000000000
+      internalID: -7100051688713568104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c753ffa2453e500800000000000000
+      internalID: 424275333550013477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca356a9ac4306490800000000000000
+      internalID: -7755140513553630513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc3a53effc56370800000000000000
+      internalID: 8315280977738058531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540d938b9db155e60800000000000000
+      internalID: 7950291339105128517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed3738191076190800000000000000
+      internalID: -7969399291121508847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6c2fc11c3d3ad20800000000000000
+      internalID: 3288704979278415527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682310e516e0ba1d0800000000000000
+      internalID: -3338558887413337466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747eafc76c289cd0800000000000000
+      internalID: -2551240364527815563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08d9e23f33de6e0800000000000000
+      internalID: -1806730755953557277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2972672e2a39b00800000000000000
+      internalID: 834189449522287314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e636079334cb7e330800000000000000
+      internalID: 3740165012466983790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2e8529d0a238b0800000000000000
+      internalID: -5173896167396855818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e24c08cd2f218a0800000000000000
+      internalID: -6335734696889799165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d3a437d5814ae0800000000000000
+      internalID: -1566824036000607428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a0d66005abae70800000000000000
+      internalID: 9127570490939975764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8e7e75806f1dc0800000000000000
+      internalID: -3666105445187155399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5faa1724fc35d0800000000000000
+      internalID: -3081319596239659459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552c6f2dd890a9c0800000000000000
+      internalID: -3917963600061520546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e83e0d5a09853f0800000000000000
+      internalID: -911819882693947763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81539eea2786960800000000000000
+      internalID: 7595446867122788577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112a381d941551f0800000000000000
+      internalID: -1056915872599629552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cd0f66d65ac080800000000000000
+      internalID: -9166418612573060382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a589ee3bf18f7f0800000000000000
+      internalID: -578677694454539688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a6792183772840800000000000000
+      internalID: 5199251293406144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da07cce11a7f37b0800000000000000
+      internalID: -5242337223830467885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59966d8f4b1d3d1e0800000000000000
+      internalID: -2174163619890697835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ec0f444ea36220800000000000000
+      internalID: 2478015828391160138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0301d3fffb190e0800000000000000
+      internalID: -2264818034628611899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e64d9afd9c15d70800000000000000
+      internalID: 9030220690318716506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea78574c0b65b140800000000000000
+      internalID: 4734808283730705135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524d2a0bb82d8ba0800000000000000
+      internalID: -6085162737712938415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6b54702bfe9930800000000000000
+      internalID: 4152032023291850195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55a921c03895cb20800000000000000
+      internalID: 3154094449209484636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75257a60db26cd00800000000000000
+      internalID: 992528942021027194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70533bdce1448d150800000000000000
+      internalID: 5897538611132445959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abdcfba0439e100800000000000000
+      internalID: 137698484383758884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181c1810f35bd940800000000000000
+      internalID: 5321939675330123792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff11e6f3e919140800000000000000
+      internalID: 4724731479355162419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc114df5136dc680800000000000000
+      internalID: -8733215156307157832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c83d29938336d80800000000000000
+      internalID: -8258695471739728747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e8dd3c96d7d1c0800000000000000
+      internalID: -4478875337855802132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29faf6557f881570800000000000000
+      internalID: 8437651636011858223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454b60b318998550800000000000000
+      internalID: 6163624775364855111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d7806467eae6810800000000000000
+      internalID: 1760536327352778086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4551cea5e5b4d0800000000000000
+      internalID: -3119334628153537331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154efa6c898b7fd60800000000000000
+      internalID: 7924005035689632849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9394e4cdd6d3ba10800000000000000
+      internalID: 1924117713796764573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d2adae6f6bd7f00800000000000000
+      internalID: 1116249454276128069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b295e910790ffbdf0800000000000000
+      internalID: -162146530204165845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098415eb71753f450800000000000000
+      internalID: 6121332078015498384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f6f61dce3369f0800000000000000
+      internalID: -476468084996638245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e8d7fc1d7c0050800000000000000
+      internalID: 5768122786125505573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28fcac2d1a08330800000000000000
+      internalID: 3711144019671089826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e3a35d18930d60800000000000000
+      internalID: 7855289426788999299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bff7cbcb1e8d540800000000000000
+      internalID: 5033020784319134597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72cc43587a2aff70800000000000000
+      internalID: 9221729883276493437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f515303799aa81360800000000000000
+      internalID: 7140644785232236895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170daabef82f2450800000000000000
+      internalID: 6066112297610053399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaf4b8ca7ce82b0800000000000000
+      internalID: -5580303344379908444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac59fc8e9e1b5810800000000000000
+      internalID: 1755030146109758624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72488f0f7e5e520800000000000000
+      internalID: 2730843771217651635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f4b6bcded920f0800000000000000
+      internalID: -1141135991022225451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b2370bd68320b00800000000000000
+      internalID: 793258528133557108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468203179d3fb53a0800000000000000
+      internalID: -6675473907414194076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca623d7f0174b600800000000000000
+      internalID: 483135371374389963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04745dce9a30e00800000000000000
+      internalID: 1009837576116715706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbc50bb1b97d1f0800000000000000
+      internalID: -1020176247350837841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef94ca0daaf10770800000000000000
+      internalID: 8575410786607079403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982dad87de0c2a3e0800000000000000
+      internalID: -2043859154705395063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b59e54f5bdf1dc30800000000000000
+      internalID: 4382562870338950583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e152687e5645ed0800000000000000
+      internalID: -2426202254183424357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198d5e5625ed2120800000000000000
+      internalID: 2390818930158307615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce543cd44c86de0800000000000000
+      internalID: -1339605050875057024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f0b717cce34960800000000000000
+      internalID: 7585166537262166749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55849e77e1b3b020800000000000000
+      internalID: 2356422637864125787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bf38bff3da18210800000000000000
+      internalID: 1333537454992653121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab597493a7c1e350800000000000000
+      internalID: 6044331680292494251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81282ccb2a4640b0800000000000000
+      internalID: -5744822722695257716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0476de286f310c150800000000000000
+      internalID: 5890730262080087872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e033a918e7003950800000000000000
+      internalID: 6426645361701630176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_85
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb7206ce2c12940800000000000000
+      internalID: 5269707359481478233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f0f4391c966d00800000000000000
+      internalID: 965630802193872020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e1dc6fb177f3720800000000000000
+      internalID: 2828110053000420875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab386751027c7310800000000000000
+      internalID: 1404122533919734702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9063d5a294c9290800000000000000
+      internalID: -7882344801503934036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee4adca425a5340800000000000000
+      internalID: 4853282029676326615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c235eeb6914d8600800000000000000
+      internalID: 472105651647361733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478eb94dc421a1c50800000000000000
+      internalID: 6636637122077649012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98496ac81a86a05d0800000000000000
+      internalID: -3095546750805044087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd823ed61f2223290800000000000000
+      internalID: -7912223175010473764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346194083d49cdf40800000000000000
+      internalID: 5754638059983935043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e79ca48817d4ba0800000000000000
+      internalID: -6103097089832944042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0415f6826cb0f0800000000000000
+      internalID: -1099895877208371807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3833b0325b294b50800000000000000
+      internalID: 6577836362755684412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2fd38f9364ac10800000000000000
+      internalID: 2063884066005920966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce9efe712d231870800000000000000
+      internalID: 8652308930996641478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2d4b3fc97a30d0800000000000000
+      internalID: -3442305034211217639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ead64d9fab50eb0800000000000000
+      internalID: -4754188249446109563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cc9c1ac423e9d0800000000000000
+      internalID: -2746310897283840344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa8724463de0350800000000000000
+      internalID: 5984953382387362456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2c29ee4c21f580800000000000000
+      internalID: -8795199879846809666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ac11669c43ede0800000000000000
+      internalID: -1305115258249239570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2cfe8cb590ba6f0800000000000000
+      internalID: -672433429543927119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8086ea9de7d8a30800000000000000
+      internalID: 4219167899315079404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296bae7c44362330800000000000000
+      internalID: 3685690848196651299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85a71ceef2e8ff0800000000000000
+      internalID: -32035444850272012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960330af461637a0800000000000000
+      internalID: -6397901689387284847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb61bb01193153d0800000000000000
+      internalID: -3219729513219789893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509c4a9c41dea740800000000000000
+      internalID: 5165295949576966230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0085a7edba87460800000000000000
+      internalID: 7239725373021749428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd357ccecc3c39e0800000000000000
+      internalID: -1640369305378538019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97775f6aea1644a20800000000000000
+      internalID: 3045666650762606457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff790899926963b0800000000000000
+      internalID: -5518771456545554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a418eaa248dfba0800000000000000
+      internalID: -6053537005264877008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea41de0bef15a730800000000000000
+      internalID: 4009646137669667554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5eacf863b27310800000000000000
+      internalID: 1401379697562901583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30471300ba585e0800000000000000
+      internalID: -1907930849803500546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c076b0f9e3edac0a0800000000000000
+      internalID: -6860426721807866100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547891ebef950b4e0800000000000000
+      internalID: -1967974086514997435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc69bc22304fe290800000000000000
+      internalID: -7858992240495334221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ddb452f5688210800000000000000
+      internalID: 1335429380993570570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e171d5ebba0ad0800000000000000
+      internalID: -2735167227938347375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4588bcbee327280800000000000000
+      internalID: -9047099518980959032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5cac05df7719ab0800000000000000
+      internalID: -5003085781166012947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45796e8880df976b0800000000000000
+      internalID: -5297925273526298796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d88b84dbbd3d6d0800000000000000
+      internalID: -2966786123491668724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4727da6114eeefca0800000000000000
+      internalID: -5981081291780689292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d02b9478eb8f610800000000000000
+      internalID: 1655282351324925206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28baf740b64dc2b60800000000000000
+      internalID: 7722781017135623042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00ccdda7db3e230800000000000000
+      internalID: 3666982857014509759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48d2bc53c98d5d0800000000000000
+      internalID: -3037506193805441807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d6b927c1474bc0800000000000000
+      internalID: -3798995437009578028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_137
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80063e1319e1be20800000000000000
+      internalID: 3364726664942977166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27f23faab1f64e0800000000000000
+      internalID: -1986338489608736050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b9c70693e5f190800000000000000
+      internalID: -7929181335400631697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf1cd903c1c44f0800000000000000
+      internalID: -843268035094381556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83a35c079048180800000000000000
+      internalID: -9114149365941126954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3bc6996aec8dd40800000000000000
+      internalID: 5609460550823883769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948a9032d2707620800000000000000
+      internalID: 2769840017916986518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf53154dd8fa680800000000000000
+      internalID: -8741612408667767991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_145
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec8c8fb056dc0a0800000000000000
+      internalID: -6859715555322442120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3cf396a14ab210800000000000000
+      internalID: 1349463222054042631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd76ef2d3e83250800000000000000
+      internalID: 5924735805156744539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44fa86aca3b1cc60800000000000000
+      internalID: 7836742380711244875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba40b78c658b7e40800000000000000
+      internalID: 5655260458273229500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac8135890064f40800000000000000
+      internalID: 5712253831595215556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b998b1b8c5a43d0800000000000000
+      internalID: -3221660830897955937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad68bbdc18bc9bfa0800000000000000
+      internalID: -5784368488017852710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Impact Effect Pack 2 C_153
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1238b4605dae810800000000000000
+      internalID: 1795481624473969071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b9cbc00889aba4326b56bb9e56cd9631
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Retro Impact Effect Pack 2 C_0: -8119839085598856233
+      Retro Impact Effect Pack 2 C_1: 1091050084331813976
+      Retro Impact Effect Pack 2 C_10: 3288704979278415527
+      Retro Impact Effect Pack 2 C_100: 8652308930996641478
+      Retro Impact Effect Pack 2 C_101: -3442305034211217639
+      Retro Impact Effect Pack 2 C_102: -4754188249446109563
+      Retro Impact Effect Pack 2 C_103: -2746310897283840344
+      Retro Impact Effect Pack 2 C_104: 5984953382387362456
+      Retro Impact Effect Pack 2 C_105: -8795199879846809666
+      Retro Impact Effect Pack 2 C_106: -1305115258249239570
+      Retro Impact Effect Pack 2 C_107: -672433429543927119
+      Retro Impact Effect Pack 2 C_108: 4219167899315079404
+      Retro Impact Effect Pack 2 C_109: 3685690848196651299
+      Retro Impact Effect Pack 2 C_11: -3338558887413337466
+      Retro Impact Effect Pack 2 C_110: -32035444850272012
+      Retro Impact Effect Pack 2 C_111: -6397901689387284847
+      Retro Impact Effect Pack 2 C_112: -3219729513219789893
+      Retro Impact Effect Pack 2 C_113: 5165295949576966230
+      Retro Impact Effect Pack 2 C_114: 7239725373021749428
+      Retro Impact Effect Pack 2 C_115: -1640369305378538019
+      Retro Impact Effect Pack 2 C_116: 3045666650762606457
+      Retro Impact Effect Pack 2 C_117: -5518771456545554435
+      Retro Impact Effect Pack 2 C_118: -6053537005264877008
+      Retro Impact Effect Pack 2 C_119: 4009646137669667554
+      Retro Impact Effect Pack 2 C_12: -2551240364527815563
+      Retro Impact Effect Pack 2 C_120: 1401379697562901583
+      Retro Impact Effect Pack 2 C_121: -1907930849803500546
+      Retro Impact Effect Pack 2 C_122: -6860426721807866100
+      Retro Impact Effect Pack 2 C_123: -1967974086514997435
+      Retro Impact Effect Pack 2 C_124: -7858992240495334221
+      Retro Impact Effect Pack 2 C_125: 1335429380993570570
+      Retro Impact Effect Pack 2 C_126: -2735167227938347375
+      Retro Impact Effect Pack 2 C_127: -9047099518980959032
+      Retro Impact Effect Pack 2 C_128: -5003085781166012947
+      Retro Impact Effect Pack 2 C_129: -5297925273526298796
+      Retro Impact Effect Pack 2 C_13: -1806730755953557277
+      Retro Impact Effect Pack 2 C_130: -2966786123491668724
+      Retro Impact Effect Pack 2 C_131: -5981081291780689292
+      Retro Impact Effect Pack 2 C_132: 1655282351324925206
+      Retro Impact Effect Pack 2 C_133: 7722781017135623042
+      Retro Impact Effect Pack 2 C_134: 3666982857014509759
+      Retro Impact Effect Pack 2 C_135: -3037506193805441807
+      Retro Impact Effect Pack 2 C_136: -3798995437009578028
+      Retro Impact Effect Pack 2 C_137: 3364726664942977166
+      Retro Impact Effect Pack 2 C_138: -1986338489608736050
+      Retro Impact Effect Pack 2 C_139: -7929181335400631697
+      Retro Impact Effect Pack 2 C_14: 834189449522287314
+      Retro Impact Effect Pack 2 C_140: -843268035094381556
+      Retro Impact Effect Pack 2 C_141: -9114149365941126954
+      Retro Impact Effect Pack 2 C_142: 5609460550823883769
+      Retro Impact Effect Pack 2 C_143: 2769840017916986518
+      Retro Impact Effect Pack 2 C_144: -8741612408667767991
+      Retro Impact Effect Pack 2 C_145: -6859715555322442120
+      Retro Impact Effect Pack 2 C_146: 1349463222054042631
+      Retro Impact Effect Pack 2 C_147: 5924735805156744539
+      Retro Impact Effect Pack 2 C_148: 7836742380711244875
+      Retro Impact Effect Pack 2 C_149: 5655260458273229500
+      Retro Impact Effect Pack 2 C_15: 3740165012466983790
+      Retro Impact Effect Pack 2 C_150: 5712253831595215556
+      Retro Impact Effect Pack 2 C_151: -3221660830897955937
+      Retro Impact Effect Pack 2 C_152: -5784368488017852710
+      Retro Impact Effect Pack 2 C_153: 1795481624473969071
+      Retro Impact Effect Pack 2 C_16: -5173896167396855818
+      Retro Impact Effect Pack 2 C_17: -6335734696889799165
+      Retro Impact Effect Pack 2 C_18: -1566824036000607428
+      Retro Impact Effect Pack 2 C_19: 9127570490939975764
+      Retro Impact Effect Pack 2 C_2: -6428469807480997483
+      Retro Impact Effect Pack 2 C_20: -3666105445187155399
+      Retro Impact Effect Pack 2 C_21: -3081319596239659459
+      Retro Impact Effect Pack 2 C_22: -3917963600061520546
+      Retro Impact Effect Pack 2 C_23: -911819882693947763
+      Retro Impact Effect Pack 2 C_24: 7595446867122788577
+      Retro Impact Effect Pack 2 C_25: -1056915872599629552
+      Retro Impact Effect Pack 2 C_26: -9166418612573060382
+      Retro Impact Effect Pack 2 C_27: -578677694454539688
+      Retro Impact Effect Pack 2 C_28: 5199251293406144706
+      Retro Impact Effect Pack 2 C_29: -5242337223830467885
+      Retro Impact Effect Pack 2 C_3: -5742540049895187792
+      Retro Impact Effect Pack 2 C_30: -2174163619890697835
+      Retro Impact Effect Pack 2 C_31: 2478015828391160138
+      Retro Impact Effect Pack 2 C_32: -2264818034628611899
+      Retro Impact Effect Pack 2 C_33: 9030220690318716506
+      Retro Impact Effect Pack 2 C_34: 4734808283730705135
+      Retro Impact Effect Pack 2 C_35: -6085162737712938415
+      Retro Impact Effect Pack 2 C_36: 4152032023291850195
+      Retro Impact Effect Pack 2 C_37: 3154094449209484636
+      Retro Impact Effect Pack 2 C_38: 992528942021027194
+      Retro Impact Effect Pack 2 C_39: 5897538611132445959
+      Retro Impact Effect Pack 2 C_4: -7100051688713568104
+      Retro Impact Effect Pack 2 C_40: 137698484383758884
+      Retro Impact Effect Pack 2 C_41: 5321939675330123792
+      Retro Impact Effect Pack 2 C_42: 4724731479355162419
+      Retro Impact Effect Pack 2 C_43: -8733215156307157832
+      Retro Impact Effect Pack 2 C_44: -8258695471739728747
+      Retro Impact Effect Pack 2 C_45: -4478875337855802132
+      Retro Impact Effect Pack 2 C_46: 8437651636011858223
+      Retro Impact Effect Pack 2 C_47: 6163624775364855111
+      Retro Impact Effect Pack 2 C_48: 1760536327352778086
+      Retro Impact Effect Pack 2 C_49: -3119334628153537331
+      Retro Impact Effect Pack 2 C_5: 424275333550013477
+      Retro Impact Effect Pack 2 C_50: 7924005035689632849
+      Retro Impact Effect Pack 2 C_51: 1924117713796764573
+      Retro Impact Effect Pack 2 C_52: 1116249454276128069
+      Retro Impact Effect Pack 2 C_53: -162146530204165845
+      Retro Impact Effect Pack 2 C_54: 6121332078015498384
+      Retro Impact Effect Pack 2 C_55: -476468084996638245
+      Retro Impact Effect Pack 2 C_56: 5768122786125505573
+      Retro Impact Effect Pack 2 C_57: 3711144019671089826
+      Retro Impact Effect Pack 2 C_58: 7855289426788999299
+      Retro Impact Effect Pack 2 C_59: 5033020784319134597
+      Retro Impact Effect Pack 2 C_6: -7755140513553630513
+      Retro Impact Effect Pack 2 C_60: 9221729883276493437
+      Retro Impact Effect Pack 2 C_61: 7140644785232236895
+      Retro Impact Effect Pack 2 C_62: 6066112297610053399
+      Retro Impact Effect Pack 2 C_63: -5580303344379908444
+      Retro Impact Effect Pack 2 C_64: 1755030146109758624
+      Retro Impact Effect Pack 2 C_65: 2730843771217651635
+      Retro Impact Effect Pack 2 C_66: -1141135991022225451
+      Retro Impact Effect Pack 2 C_67: 793258528133557108
+      Retro Impact Effect Pack 2 C_68: -6675473907414194076
+      Retro Impact Effect Pack 2 C_69: 483135371374389963
+      Retro Impact Effect Pack 2 C_7: 8315280977738058531
+      Retro Impact Effect Pack 2 C_70: 1009837576116715706
+      Retro Impact Effect Pack 2 C_71: -1020176247350837841
+      Retro Impact Effect Pack 2 C_72: 8575410786607079403
+      Retro Impact Effect Pack 2 C_73: -2043859154705395063
+      Retro Impact Effect Pack 2 C_74: 4382562870338950583
+      Retro Impact Effect Pack 2 C_75: -2426202254183424357
+      Retro Impact Effect Pack 2 C_76: 2390818930158307615
+      Retro Impact Effect Pack 2 C_77: -1339605050875057024
+      Retro Impact Effect Pack 2 C_78: 7585166537262166749
+      Retro Impact Effect Pack 2 C_79: 2356422637864125787
+      Retro Impact Effect Pack 2 C_8: 7950291339105128517
+      Retro Impact Effect Pack 2 C_80: 1333537454992653121
+      Retro Impact Effect Pack 2 C_81: 6044331680292494251
+      Retro Impact Effect Pack 2 C_82: -5744822722695257716
+      Retro Impact Effect Pack 2 C_83: 5890730262080087872
+      Retro Impact Effect Pack 2 C_84: 6426645361701630176
+      Retro Impact Effect Pack 2 C_85: 5269707359481478233
+      Retro Impact Effect Pack 2 C_86: 965630802193872020
+      Retro Impact Effect Pack 2 C_87: 2828110053000420875
+      Retro Impact Effect Pack 2 C_88: 1404122533919734702
+      Retro Impact Effect Pack 2 C_89: -7882344801503934036
+      Retro Impact Effect Pack 2 C_9: -7969399291121508847
+      Retro Impact Effect Pack 2 C_90: 4853282029676326615
+      Retro Impact Effect Pack 2 C_91: 472105651647361733
+      Retro Impact Effect Pack 2 C_92: 6636637122077649012
+      Retro Impact Effect Pack 2 C_93: -3095546750805044087
+      Retro Impact Effect Pack 2 C_94: -7912223175010473764
+      Retro Impact Effect Pack 2 C_95: 5754638059983935043
+      Retro Impact Effect Pack 2 C_96: -6103097089832944042
+      Retro Impact Effect Pack 2 C_97: -1099895877208371807
+      Retro Impact Effect Pack 2 C_98: 6577836362755684412
+      Retro Impact Effect Pack 2 C_99: 2063884066005920966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
